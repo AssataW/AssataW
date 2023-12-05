@@ -1,6 +1,6 @@
 # 👋 Assata Walker
 
-**`Coming soon ()`**
+**`Coming soon ()`** Former Tech Recruiter turned Jnr Cloud Engineer
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning everything 🤣
