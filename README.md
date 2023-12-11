@@ -1,6 +1,6 @@
-# 👩🏽‍💻 Assata Walker
+# Assata Walker
 
-**`Lady in the cloud (Engineer/creative/ )`** 
+👩🏽‍💻 **`Lady in the cloud `** # Cloud Engineer . Creative . DE&I Advocate 
 
 
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Assataw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -11,29 +11,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,aws,bash,css,docker,git,github,html,js,kubernetes,linux,ps,powershell,py,replit,vscode,mysql,figma&theme=dark)](https://skillicons.dev)
 
-<img align="left" alt="GCP" width="30px" style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="kubernetes" width="30px" style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> 
-<img align="left" alt="aws" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
-<img align="left" alt="mysql" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> 
-<img align="left" alt="Javascript" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
-<img align="left" alt="Adobe" width="30px" style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /> 
-<img align="left" alt="photoshop" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" /> 
-
-<br />
 
 #
 
 ### :cloud: My Cloud journey
-I am driven by a deep desire to contribute and thrive in the tech industry, particularly as a woman of colour. I aim to inspire, mentor, and support other women from diverse backgrounds who aspire to follow a similar path. My journey is not just about personal growth but about breaking barriers and dismantling stereotypes.
+I'm driven by a deep desire to contribute and thrive in the tech industry, particularly as a woman of colour. I aim to inspire, mentor, and support other women from diverse backgrounds who aspire to follow a similar path. My journey is not just about personal growth but about breaking barriers and dismantling stereotypes.
 #
 
 ### :computer: Recommended resources
@@ -72,12 +54,59 @@ Shout out to the content creators that aided me on my cloud computing journey. T
 
 ### 📊 Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=assataw&show_icons=true&theme=gruvbox" alt="assataw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assataw&show_icons=true&theme=gruvbox" alt="assataw" /></p>
+![Assata's GitHub stats](https://github-readme-stats.vercel.app/api?username=assataw&show_icons=true&theme=radical)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=assataw&label=Profile%20views&color=0e75b6&style=flat" alt="assataw" /> </p>
+
+
+
+
+
+
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=assataw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=assataw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/assataw/assataw/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 <!---
