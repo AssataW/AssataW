@@ -9,6 +9,8 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧰 Languages and Tools
 
+[![My Skills](https://skillicons.dev/icons?i=gcp,aws,bash,css,docker,git,github,html,js,kubernetes,linux,ps,powershell,py,replit,vscode,mysql,figma&theme=dark)](https://skillicons.dev)
+
 <img align="left" alt="GCP" width="30px" style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
@@ -31,32 +33,42 @@
 #
 
 ### :cloud: My Cloud journey
-
+I am driven by a deep desire to contribute and thrive in the tech industry, particularly as a woman of colour. I aim to inspire, mentor, and support other women from diverse backgrounds who aspire to follow a similar path. My journey is not just about personal growth but about breaking barriers and dismantling stereotypes.
 #
 
 ### :computer: Recommended resources
-Here are some resources that aided me on my cloud computing journey, and they could potentially benefit you as well (content not created by me).
+Shout out to the content creators that aided me on my cloud computing journey. Theses resources could benefit you too (content not my own).
 
 #
 
 ### :round_pushpin: More about me
-- <img align="left" alt="GCP" width="20px" style="padding-right:20px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> 
+- :cloud:Google Cloud Platform 
 - ⌨ Linux, Python, Networking and Security
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Terraform, Kubernetes and Docker 
-- 💞️ I’m looking to collaborate on Cloud Computing projects
+- 💞️ I’m looking to collaborate on cloud computing projects
 - 🤔 I’m looking for help with more coding
-- 👀 I’m interested in fashion, music and film
+- 👀 I’m interested in tech, fashion, music and film
 - 😁 My guilty pleasure...reality TV!
-- 📫 Send me a DM via my socials 
+- 📫 Send me an email or DM via my socials
+<a href="mailto:l.assata.walker@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/assata_walker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="assata_walker" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/assatawalker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/assatawalker/" height="30" width="40" /></a>
-</p>
-
+  
 #
+
+<div align="center">
+  <h2>🐍 Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/assataw/assataw/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ### 📊 Stats
 
