@@ -9,22 +9,22 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧰 Languages and Tools
 
-<img align="left" alt="GCP" width="45px" style="padding-right:45px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-<img align="left" alt="Linux" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Bash" width="45px" style="padding-right:45px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Docker" width="50px" style="padding-right:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-<img align="left" alt="kubernetes" width="40px" style="padding-right:40px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> 
-<img align="left" alt="aws" width="50px" style="padding-right:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
-<img align="left" alt="mysql" width="40px" style="padding-right:40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
-<img align="left" alt="Visual Studio Code" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Git" width="40px" style="padding-right:40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="40px" style="padding-right:40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS3" width="40px" style="padding-right:40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> 
-<img align="left" alt="Javascript" width="40px" style="padding-right:40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
-<img align="left" alt="Adobe" width="40px" style="padding-right:40px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /> 
-<img align="left" alt="photoshop" width="40px" style="padding-right:40px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" /> 
+<img align="left" alt="GCP" width="30px" style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+<img align="left" alt="kubernetes" width="30px" style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> 
+<img align="left" alt="aws" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
+<img align="left" alt="mysql" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> 
+<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> 
+<img align="left" alt="Javascript" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> 
+<img align="left" alt="Adobe" width="30px" style="padding-right:30px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /> 
+<img align="left" alt="photoshop" width="30px" style="padding-right:30px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" /> 
 
 <br />
 
