@@ -74,7 +74,7 @@ Shout out to the content creators that aided me on my cloud computing journey. T
 - ⌨ Linux, Python, Networking and Security
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Become more confident with Terraform, Kubernetes and Docker 
-- 💞️ I’m looking to collaborate on cloud computing projects
+- 💞️ I’m looking to collaborate on projects that would increase my knowledge of cloud computing 
 - 🤔 I’m looking for help with more coding
 - 👀 I’m interested in tech, fashion, music and film
 - 😁 My guilty pleasure...reality TV!
