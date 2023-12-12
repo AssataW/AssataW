@@ -65,7 +65,7 @@ I'm excited about making my mark in the tech world, especially as a woman of col
 #
 
 ### :computer: Recommended resources
-Shout out to the content creators that aided me on my cloud computing journey. I recommend subscribing to these YouTube channels and checking out their content (content not my own).
+Shout out to the content creators that aided me on my cloud computing journey. I recommend subscribing to these YouTube Creators and checking out their content (content not my own).
 
 [![These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)](https://ytcards.demolab.com/?id=8XVI_Zrvz3c&title=These+Coding+Projects+Will+Set+You+Apart+as+a+Programmer+%28w%2F+Instructions+Included%29&lang=en&timestamp=1701357302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1268 "These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)")](https://www.youtube.com/watch?v=8XVI_Zrvz3c)
 
