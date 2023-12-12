@@ -95,7 +95,7 @@ Shout out to the content creators that aided me on my cloud computing journey. T
 #
 
 ### 🐍 Contributions
-![snake gif](https://github.com/AssataW/AssataW/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AssataW/AssataW/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 AssataW/AssataW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
