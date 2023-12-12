@@ -2,7 +2,7 @@
 
 👩🏽‍💻 **`Lady in the cloud `** # Cloud Engineer . Creative . DE&I Advocate 
 
-I'm passionate about automating, optimizing and securing cloud-based infrastructures. I thrive on solving complex problems and building efficient CI/CD pipelines.
+I'm a Junior DevOps Engineer with experience in cloud platforms, containerization and programming. I'm passionate about automating, optimizing and securing cloud-based infrastructures. I thrive on solving complex problems and building efficient CI/CD pipelines.
 
 
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Assataw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -33,6 +33,7 @@ Shout out to the content creators that aided me on my cloud computing journey. T
 - 👀 I’m interested in tech, fashion, music and film
 - 😁 My guilty pleasure...reality TV!
 - 📫 Send me an email or DM via my socials
+  
 <a href="mailto:l.assata.walker@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </p>
