@@ -1,8 +1,7 @@
-# Assata Walker
+![Assatawgithubheader png (2)](https://github.com/AssataW/Python-Projects/assets/130590714/b944ce1f-0dae-437c-87e9-ab3006535674)
 
-👩🏽‍💻 **`Lady in the cloud `** # Cloud Engineer . Creative . DE&I Advocate 
 
-I'm a Junior DevOps Engineer with experience in cloud platforms, containerization and programming. I'm passionate about automating, optimizing and securing cloud-based infrastructures. I thrive on solving complex problems and building efficient CI/CD pipelines.
+👩🏽‍💻 **`Lady in the cloud `** I'm a Junior DevOps Engineer with experience in cloud platforms, containerization, and programming. My mission? To automate, optimize, and safeguard cloud infrastructures while keeping an eye out for those pesky bugs trying to sneak in. Think of me as the problem-solving superwoman, crafting CI/CD pipelines so smooth they put butter to shame😄
 
 
 <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Assataw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -66,11 +65,11 @@ I'm a Junior DevOps Engineer with experience in cloud platforms, containerizatio
 
 #
 ### :cloud: My Cloud journey
-I'm driven by a deep desire to contribute and thrive in the tech industry, particularly as a woman of colour. I aim to inspire, mentor, and support other women from diverse backgrounds who aspire to follow a similar path. My journey is not just about personal growth but about breaking barriers and dismantling stereotypes.
+I'm excited about making my mark in the tech world, especially as a woman of colour. I aim to inspire, mentor and support other women from diverse backgrounds who aspire to follow a similar path. My journey is not just about personal growth but about breaking barriers and challenging stereotypes along the way.
 #
 
 ### :computer: Recommended resources
-Shout out to the content creators that aided me on my cloud computing journey. Theses resources could benefit you too (content not my own).
+Shout out to the content creators that aided me on my cloud computing journey. These resources could benefit you too (content not my own).
 
 #
 
