@@ -1,11 +1,7 @@
 ![Assatawgithubheader png (2)](https://github.com/AssataW/Python-Projects/assets/130590714/b944ce1f-0dae-437c-87e9-ab3006535674)
 
 
-👩🏽‍💻 **`Lady in the cloud `** I'm a Junior DevOps Engineer with experience in cloud platforms, containerization, and programming. My mission? To automate, optimize, and safeguard cloud infrastructures while keeping an eye out for those pesky bugs trying to sneak in. Think of me as the problem-solving superwoman, crafting CI/CD pipelines so smooth they put butter to shame😄
-
-
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Assataw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Assataw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+👩🏽‍💻 **`Lady in the cloud `** Hey, I'm Assata, a Junior DevOps Engineer with experience in cloud platforms, containerization, and programming. My mission? To automate, optimize, and safeguard cloud infrastructures while keeping an eye out for those pesky bugs trying to sneak in. Think of me as the problem-solving superwoman, crafting CI/CD pipelines so smooth they put butter to shame😄
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🧰 Languages and Tools
@@ -86,6 +82,9 @@ Shout out to the content creators that aided me on my cloud computing journey. T
   
 <a href="mailto:l.assata.walker@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Assataw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Assataw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>  
 </p>
 
 <h3 align="left">Connect with me:</h3>
