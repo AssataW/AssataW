@@ -61,7 +61,7 @@
 
 #
 ### :cloud: My Cloud journey
-I'm excited about making my mark in the tech world, especially as a woman of colour. I aim to inspire, mentor and support other women from diverse backgrounds who aspire to follow a similar path. My journey is not just about personal growth but about breaking barriers and challenging stereotypes along the way.
+I'm excited about making my mark in the tech world, especially as a woman of colour. I aim to inspire, mentor and support other women from diverse backgrounds who aspire to follow a similar path. My journey is not just about personal growth but about breaking barriers and challenging stereotypes along the way. As my career advances, I am particularly keen on expanding my knowledge in security, accessibility and AI!
 #
 
 ### :computer: Recommended resources
