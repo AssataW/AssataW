@@ -96,9 +96,6 @@ Shout out to the content creators that aided me on my cloud computing journey. T
 
 ### 🐍 Contributions
 
-![snake gif](https://github.com/AssataW/AssataW/blob/output/github-contribution-grid-snake.svg)
-
-###
 
 
 <!---
