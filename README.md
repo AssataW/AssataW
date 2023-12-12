@@ -69,6 +69,8 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 
 [![These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)](https://ytcards.demolab.com/?id=8XVI_Zrvz3c&title=These+Coding+Projects+Will+Set+You+Apart+as+a+Programmer+%28w%2F+Instructions+Included%29&lang=en&timestamp=1701357302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1268 "These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)")](https://www.youtube.com/watch?v=8XVI_Zrvz3c)
 
+[![How Learning This Skill Got Me a Cloud Engineer Job](https://img.youtube.com/vi/ygwPOBVHoi0&t/0.jpeg)](https://www.youtube.com/watch?v=ygwPOBVHoi0&list=ygwPOBVHoi0&t)
+
 #
 
 ### :round_pushpin: More about me
