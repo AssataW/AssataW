@@ -101,11 +101,6 @@ Shout out to the content creators that aided me on my cloud computing journey. T
 
 </div>
 
-### 📊 Stats
-
-![Assata's GitHub stats](https://github-readme-stats.vercel.app/api?username=assataw&show_icons=true&theme=radical)
-
-
 ###
 
 
