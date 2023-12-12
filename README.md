@@ -96,8 +96,6 @@ Shout out to the content creators that aided me on my cloud computing journey. T
 
 ### 🐍 Contributions
 
-
-
 <!---
 AssataW/AssataW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
