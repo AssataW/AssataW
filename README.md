@@ -68,6 +68,7 @@ I'm excited about making my mark in the tech world, especially as a woman of col
 Shout out to the content creators that aided me on my cloud computing journey. I'd recommend subscribing to these YouTube channels and checking out their content (content not my own).
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![How Learning This Skill Got Me a Cloud Engineer Job](https://ytcards.demolab.com/?id=ygwPOBVHoi0&t&title=How+Learning+This+Skill+Got+Me+a+Cloud+Engineer+Job+%28w%2F%29&lang=en&timestamp=1701357302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1268 "How Learning This Skill Got Me a Cloud Engineer Job")](https://www.youtube.com/watch?v=ygwPOBVHoi0&t)
 
 <!-- END YOUTUBE-CARDS -->
 #
