@@ -67,9 +67,15 @@ I'm excited about making my mark in the tech world, especially as a woman of col
 ### :computer: Recommended resources
 Shout out to the content creators that aided me on my cloud computing journey. I'd recommend subscribing to these YouTube channels and checking out their content (content not my own).
 
-<!-- BEGIN YOUTUBE-CARDS -->
+<!-- YOUTUBE-LINKS -->
 
-<!-- END YOUTUBE-CARDS -->
+- [Linux Commands Every Cloud Professional Should Know](https://www.youtube.com/embed/qJhzrdazCZU?si=JiNZvGJ4x9nV4OpP)
+- [VSCode Extensions I use as a DevOps Engineer](https://www.youtube.com/watch?v=psJVKazKU8Y)
+- [How Learning This Skill Got Me a Cloud Engineer Job](https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s) 
+- [Bootcamp to Cloud Engineer](https://www.youtube.com/watch?v=-IDu8GZnIw0&t=4s)
+- 
+
+<!-- END YOUTUBE-LINKS -->
 #
 
 ### :round_pushpin: More about me
