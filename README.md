@@ -4,7 +4,7 @@
 👩🏽‍💻 **`Lady in the cloud `** I'm Assata👋🏽, a Junior DevOps Engineer with experience in cloud platforms, containerization, and programming. My mission? To automate, optimize, and safeguard cloud infrastructures while keeping an eye out for those pesky bugs trying to sneak in. Think of me as the problem-solving superwoman, crafting CI/CD pipelines so smooth they put butter to shame😄
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🧰 Languages and Tools
+### :hammer_and_wrench: Languages and Tools
 
 <div align="left">
 </div>
@@ -53,7 +53,7 @@
 </div>
 
 
-### :hammer_and_wrench: Other tools
+### 🧰 Other tools
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,replit,figma,ps,&theme=dark)](https://skillicons.dev) 
 
@@ -69,12 +69,10 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 
 <!-- YOUTUBE-LINKS -->
 
-- [What should I migrate first?](https://www.youtube.com/watch?v=2-B_kS7hBk8)
-- [Linux Commands Every Cloud Professional Should Know](https://www.youtube.com/embed/qJhzrdazCZU?si=JiNZvGJ4x9nV4OpP)
-- [VSCode Extensions I use as a DevOps Engineer](https://www.youtube.com/watch?v=psJVKazKU8Y)
-- [Database Migrations: What A Cloud Engineer Should Know](https://www.youtube.com/watch?v=z5_f-lbkn7o)
-- [How Learning This Skill Got Me a Cloud Engineer Job](https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s) 
-- [Bootcamp to Cloud Engineer](https://www.youtube.com/watch?v=-IDu8GZnIw0&t=4s)
+:large_blue_circle: [What should I migrate first?](https://www.youtube.com/watch?v=2-B_kS7hBk8) :red_circle: [Linux Commands Every Cloud Professional Should Know](https://www.youtube.com/embed/qJhzrdazCZU?si=JiNZvGJ4x9nV4OpP)
+:yellow_circle: [VSCode Extensions I use as a DevOps Engineer](https://www.youtube.com/watch?v=psJVKazKU8Y) :green_circle: [Database Migrations: What A Cloud Engineer Should Know](https://www.youtube.com/watch?v=z5_f-lbkn7o)
+:large_blue_circle: [How Learning This Skill Got Me a Cloud Engineer Job](https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s) 
+:red_circle: [Bootcamp to Cloud Engineer](https://www.youtube.com/watch?v=-IDu8GZnIw0&t=4s)
 
 <!-- END YOUTUBE-LINKS -->
 #
@@ -92,9 +90,6 @@ Shout out to the content creators that aided me on my cloud computing journey. I
   
 <a href="mailto:l.assata.walker@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Assataw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Assataw?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>  
 </p>
 
 <h3 align="left">Connect with me:</h3>
