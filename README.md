@@ -103,6 +103,13 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 ### 🐍 My contributions
 ![snake gif](https://github.com/AssataW/AssataW/blob/output/github-contribution-grid-snake-dark.svg)
 
+
+### My Github Stats (I'm working on it)
+
+<a href="http://www.github.com/AssataW"><img src="https://github-readme-stats.vercel.app/api?username=AssataW&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="AssataW's GitHub stats" /></a>
+
+<a href="http://www.github.com/AssataW"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AssataW&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <!---
 AssataW/AssataW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
