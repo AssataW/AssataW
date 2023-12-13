@@ -69,7 +69,6 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[How to learn Cloud and Actually land a job](https://www.youtube.com/embed/ygwPOBVHoi0?si=ZG842cfYkNZYIGK2) 
 <!-- END YOUTUBE-CARDS -->
 #
 
