@@ -52,8 +52,9 @@
   <img width="12" />
 </div>
 
+#
 
-### 🧰 Other tools
+### 🧰 Other tools I use
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,replit,figma,ps,&theme=dark)](https://skillicons.dev) 
 
