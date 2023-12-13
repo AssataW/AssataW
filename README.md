@@ -69,12 +69,12 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 
 <!-- YOUTUBE-LINKS -->
 
+- [What should I migrate first?](https://www.youtube.com/watch?v=2-B_kS7hBk8)
 - [Linux Commands Every Cloud Professional Should Know](https://www.youtube.com/embed/qJhzrdazCZU?si=JiNZvGJ4x9nV4OpP)
 - [VSCode Extensions I use as a DevOps Engineer](https://www.youtube.com/watch?v=psJVKazKU8Y)
 - [Database Migrations: What A Cloud Engineer Should Know](https://www.youtube.com/watch?v=z5_f-lbkn7o)
 - [How Learning This Skill Got Me a Cloud Engineer Job](https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s) 
 - [Bootcamp to Cloud Engineer](https://www.youtube.com/watch?v=-IDu8GZnIw0&t=4s)
-- 
 
 <!-- END YOUTUBE-LINKS -->
 #
