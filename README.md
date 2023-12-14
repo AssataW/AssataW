@@ -80,6 +80,15 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/ee448e84-dbf3-4dc0-a694-9540f7496a09" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/ee448e84-dbf3-4dc0-a694-9540f7496a09" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
 
+<a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
+<a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
+<a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
+<a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
+<a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
+<a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
+
+
+https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0 - png 
 
 <!-- END YOUTUBE-LINKS -->
 
