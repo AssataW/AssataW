@@ -82,6 +82,8 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 
 :red_circle: [Bootcamp to Cloud Engineer](https://www.youtube.com/watch?v=-IDu8GZnIw0&t=4s)
 
+![89aebl](https://github.com/AssataW/Python-Projects/assets/130590714/465a42ac-e293-47a5-8cbc-b0ed9b8e9ce2)
+
 <!-- END YOUTUBE-LINKS -->
 #
 
