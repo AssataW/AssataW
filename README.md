@@ -69,12 +69,6 @@ I'm excited about making my mark in the tech world, especially as a woman of col
 Shout out to the content creators that aided me on my cloud computing journey. I'd recommend subscribing to these YouTube channels and checking out their content (content not my own).
 
 <!-- YOUTUBE-LINKS -->
-<a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
-<a href="https://www.youtube.com/watch?v=FqqhaOlefwY"><img src="https://github.com/AssataW/Python-Projects/assets/130590714/3e337a1f-1daa-45f6-afd1-d83e5c54778e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3e337a1f-1daa-45f6-afd1-d83e5c54778e"></a>
-<a href="https://www.youtube.com/watch?v=oHtptmIZ-8c"><img src="https://github.com/AssataW/Python-Projects/assets/130590714/1e852900-97bb-4fc8-880b-88757463ed84" alt="https://github.com/AssataW/Python-Projects/assets/130590714/1e852900-97bb-4fc8-880b-88757463ed84"></a>
-<a href="https://www.youtube.com/watch?v=i3epeCk8ldc&t=6s"><img src="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041"></a>
-<a href="https://www.youtube.com/watch?v=i3epeCk8ldc&t=6s"><img src="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041"></a>
-
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/ee448e84-dbf3-4dc0-a694-9540f7496a09" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/ee448e84-dbf3-4dc0-a694-9540f7496a09" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/ee448e84-dbf3-4dc0-a694-9540f7496a09" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
