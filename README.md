@@ -82,6 +82,12 @@ Shout out to the content creators that aided me on my cloud computing journey. I
     <img src="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041">
 </a>
 
+<a href="https://www.youtube.com/watch?v=etAaLNrjh20">
+    <img src="https://github.com/AssataW/AssataW/assets/130590714/debc7545-059c-42ab-974f-18363a5b68b8" alt="https://github.com/AssataW/AssataW/assets/130590714/debc7545-059c-42ab-974f-18363a5b68b8">
+</a> 
+<a href="https://www.youtube.com/watch?v=etAaLNrjh20">
+    <img src="https://github.com/AssataW/AssataW/assets/130590714/debc7545-059c-42ab-974f-18363a5b68b8" alt="https://github.com/AssataW/AssataW/assets/130590714/debc7545-059c-42ab-974f-18363a5b68b8">
+</a> 
 
 <!-- END YOUTUBE-LINKS -->
 
