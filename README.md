@@ -74,7 +74,7 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=oHtptmIZ-8c"><img src="https://github.com/AssataW/AssataW/assets/130590714/efd821e8-f10c-4ad4-8ea4-de82f95b1fd9" alt="Google employee Troubleshooting VPC Network Peering"></a> 
 <a href="https://www.youtube.com/watch?v=i3epeCk8ldc"><img src="https://github.com/AssataW/AssataW/assets/130590714/3b86c768-defa-4bdd-b553-e0e8bf9f51bb" alt="Google employees discussing serverless cicd"></a>
 <a href="https://www.youtube.com/watch?v=hVTnW-rH5Vc"><img src="https://github.com/AssataW/AssataW/assets/130590714/e07cb7f6-a71e-40fe-b687-9c45f264a117" alt="Google employee discussing secure development environments with Google Cloud"></a> 
-<a href="https://www.youtube.com/watch?v=qJhzrdazCZU&t=12s"><img src=" https://github.com/AssataW/AssataW/assets/130590714/6fb8a3cd-2564-4617-8660-6bb6ee60a0db" alt="Youtube content creator explaining Linux command lines"></a>
+<a href="https://www.youtube.com/watch?v=qJhzrdazCZU&t"><img src=" https://github.com/AssataW/AssataW/assets/130590714/6fb8a3cd-2564-4617-8660-6bb6ee60a0db" alt="Youtube content creator explaining Linux command lines"></a>
 
 
 
