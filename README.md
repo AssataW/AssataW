@@ -98,11 +98,7 @@ https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca
 - 🤔 I’m looking for help with more coding
 - 👀 I’m interested in tech, fashion, music and film
 - 😁 My guilty pleasure...reality TV!
-- 📫 To reach me, you can send me an email or DM via my socials
-  
-<a href="mailto:l.assata.walker@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</p>
+- 📫 To reach me, send an email or DM via my socials
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
