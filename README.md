@@ -89,6 +89,26 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 </a>
 
 
+<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
+</a>
+<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
+</a>
+<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
+</a>
+<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
+</a>
+<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
+</a>
+<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
+</a>
+
+
 <!-- END YOUTUBE-LINKS -->
 #
 
