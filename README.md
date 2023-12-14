@@ -79,12 +79,10 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
 <a href="https://www.youtube.com/watch?v=FqqhaOlefwY"><img src="https://github.com/AssataW/AssataW/assets/130590714/e9ab0a36-97a7-4205-8926-5179c52975a9" alt="Google employee deploying Google External HTTP(S) Load Balancer with Terraform"></a> 
 <a href="https://www.youtube.com/watch?v=oHtptmIZ-8c"><img src="https://github.com/AssataW/AssataW/assets/130590714/a14a5789-c4e5-4869-8f35-7aeb4690d855" alt="Google employee Troubleshooting VPC Network Peering"></a> 
+<a href="https://www.youtube.com/watch?v=i3epeCk8ldc"><img src="https://github.com/AssataW/AssataW/assets/130590714/c241a2a3-15d1-4f7f-bbf7-ff9029073242" alt="Google employees discussing serverless cicd"></a>
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
-<a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
-
-
-<a href="https://www.youtube.com/watch?v=i3epeCk8ldc"><img src="" alt="Google employees discussing serverless cicd"></a>
+ 
 <!-- END YOUTUBE-LINKS -->
 
 
