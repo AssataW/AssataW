@@ -104,7 +104,7 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 ![snake gif](https://github.com/AssataW/AssataW/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-### My Github Stats (I'm working on it)
+### 📊 My Github Stats (I'm working on it :smirk:)
 
 <a href="http://www.github.com/AssataW"><img src="https://github-readme-stats.vercel.app/api?username=AssataW&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="AssataW's GitHub stats" /></a>
 
