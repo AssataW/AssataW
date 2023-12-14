@@ -85,6 +85,8 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 
 ![Tech with Soleyman](https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e)
 ![Cloud with GPS thumbnail ](https://github.com/AssataW/Python-Projects/assets/130590714/f59b0dcd-53be-4bc2-b5e7-097d11005b6e)
+![Tech with Soleyman](https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e)
+![Tech with Soleyman](https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e)
 
 <a href="https://www.youtube.com/watch?v=2-B_kS7hBk8">
     <img src="https://github.com/AssataW/Python-Projects/assets/130590714/465a42ac-e293-47a5-8cbc-b0ed9b8e9ce2" alt="https://github.com/AssataW/Python-Projects/assets/130590714/465a42ac-e293-47a5-8cbc-b0ed9b8e9ce2">
@@ -102,12 +104,12 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 - :cloud:Google Cloud Platform 
 - ⌨ Linux, Python, Networking and Security
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Become more confident with Terraform, Kubernetes and Docker 
+- 🥅 2024 Goals: Master Terraform, Kubernetes and Docker 
 - 💞️ I’m looking to collaborate on projects that would increase my knowledge of cloud computing 
 - 🤔 I’m looking for help with more coding
 - 👀 I’m interested in tech, fashion, music and film
 - 😁 My guilty pleasure...reality TV!
-- 📫 Send me an email or DM via my socials
+- 📫 To reach me, you can send me an email or DM via my socials
   
 <a href="mailto:l.assata.walker@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
