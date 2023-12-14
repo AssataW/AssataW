@@ -81,13 +81,13 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=i3epeCk8ldc&t=6s">
     <img src="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041">
 </a>
-<a href="https://www.youtube.com/watch?v=hVTnW-rH5Vc">
-    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/2ece2808-b644-47c0-badb-b5a3c51316ae" alt="https://github.com/AssataW/Python-Projects/assets/130590714/2ece2808-b644-47c0-badb-b5a3c51316ae">
-</a>
+
 
 <!-- END YOUTUBE-LINKS -->
-#
 
+
+
+#
 ### :round_pushpin: More about me
 - :cloud:Google Cloud Platform 
 - ⌨ Linux, Python, Networking and Security
