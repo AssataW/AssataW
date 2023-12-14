@@ -84,9 +84,7 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 
 
 ![Tech with Soleyman](https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e)
-![Cloud with GPS thumbnail ](https://github.com/AssataW/Python-Projects/assets/130590714/f59b0dcd-53be-4bc2-b5e7-097d11005b6e)
-![Tech with Soleyman](https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e)
-![Tech with Soleyman](https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e)
+
 
 <a href="https://www.youtube.com/watch?v=2-B_kS7hBk8">
     <img src="https://github.com/AssataW/Python-Projects/assets/130590714/465a42ac-e293-47a5-8cbc-b0ed9b8e9ce2" alt="https://github.com/AssataW/Python-Projects/assets/130590714/465a42ac-e293-47a5-8cbc-b0ed9b8e9ce2">
@@ -95,6 +93,22 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
     <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
 </a>
+
+=====
+
+<a href="https://www.youtube.com/watch?v=etAaLNrjh20">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399">
+</a>
+<a href="https://www.youtube.com/watch?v=FqqhaOlefwY">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/3e337a1f-1daa-45f6-afd1-d83e5c54778e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3e337a1f-1daa-45f6-afd1-d83e5c54778e">
+</a>
+<a href="https://www.youtube.com/watch?v=oHtptmIZ-8c">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/1e852900-97bb-4fc8-880b-88757463ed84" alt="https://github.com/AssataW/Python-Projects/assets/130590714/1e852900-97bb-4fc8-880b-88757463ed84">
+</a>
+<a href="https://www.youtube.com/watch?v=i3epeCk8ldc&t=6s">
+    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3ad14d82-f521-4172-8aec-65e0a564d041">
+</a>
+
 
 
 <!-- END YOUTUBE-LINKS -->
