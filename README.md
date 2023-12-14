@@ -84,30 +84,6 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=hVTnW-rH5Vc">
     <img src="https://github.com/AssataW/Python-Projects/assets/130590714/2ece2808-b644-47c0-badb-b5a3c51316ae" alt="https://github.com/AssataW/Python-Projects/assets/130590714/2ece2808-b644-47c0-badb-b5a3c51316ae">
 </a>
-<a href="https://www.youtube.com/watch?v=hVTnW-rH5Vc">
-    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/2ece2808-b644-47c0-badb-b5a3c51316ae" alt="https://github.com/AssataW/Python-Projects/assets/130590714/2ece2808-b644-47c0-badb-b5a3c51316ae">
-</a>
-
-
-<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
-    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
-</a>
-<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
-    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
-</a>
-<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
-    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
-</a>
-<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
-    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
-</a>
-<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
-    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
-</a>
-<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0&t=1s">
-    <img src="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e" alt="https://github.com/AssataW/Python-Projects/assets/130590714/d951770b-4612-494e-bf99-962455d6ea7e">
-</a>
-
 
 <!-- END YOUTUBE-LINKS -->
 #
