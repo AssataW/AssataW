@@ -89,9 +89,10 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=c1GdbWG_fXo"><img src="https://github.com/AssataW/AssataW/assets/130590714/e9c5efd2-6d43-4cfc-9d20-fb5898116abf" alt="Youtube creator Cloud Girl explaining the Open System Interconnection framework"></a>
 <a href="https://www.youtube.com/watch?v=ORxMMo7it_Y"><img src="https://github.com/AssataW/AssataW/assets/130590714/96fab0e4-053c-44c8-887e-ceb02b12ef22" alt="Youtube creator Cloud Girl explaining relational and non-relational databases"></a>
 <a href="https://www.youtube.com/watch?v=QjqUEcKhTM8"><img src="https://github.com/AssataW/AssataW/assets/130590714/95c30120-edc0-4a7c-aeb1-35fb36544ee4" alt="Youtube creator Cloud Girl explaining TCP and IP protocols"></a>
+<a href="https://www.youtube.com/watch?v=psJVKazKU8Y"><img src="https://github.com/AssataW/AssataW/assets/130590714/d29a2ceb-70d7-49b0-a9b6-154e3fd6e0fa" alt="Youtube creator Rishab in Cloud discussing VSCode extensions for DevOps Engineers"></a>
 
 
-<a href="https://www.youtube.com/watch?v=psJVKazKU8Y"><img src="" alt="Youtube creator Rishab in Cloud discussing VSCode extensions for DevOps Engineers"></a>
+<a href=""><img src="" alt=""></a>
 
 <!-- END YOUTUBE-LINKS -->
 
