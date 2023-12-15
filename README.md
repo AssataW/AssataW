@@ -76,7 +76,7 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=hVTnW-rH5Vc"><img src="https://github.com/AssataW/AssataW/assets/130590714/e07cb7f6-a71e-40fe-b687-9c45f264a117" alt="Google employee discussing secure development environments with Google Cloud"></a> 
 <a href="https://www.youtube.com/watch?v=qJhzrdazCZU&t"><img src="https://github.com/AssataW/AssataW/assets/130590714/8cf200cd-6e06-43e6-951e-e64cc88057c2" alt="Youtube content creator explaining Linux command lines"></a>
 <a href="https://www.youtube.com/watch?v=c1GdbWG_fXo"><img src="https://github.com/AssataW/AssataW/assets/130590714/6798a794-b4f8-4eb3-8480-8976a0546626" alt="Youtube creator Cloud Girl explaining the Open System Interconnection framework"></a>
-
+<a href="https://www.youtube.com/watch?v=ORxMMo7it_Y"><img src="https://github.com/AssataW/AssataW/assets/130590714/9ec45758-8c38-482b-ae94-1a124f551b9e" alt="Youtube creator Cloud Girl explaining relational and non-relational databases"></a>
 
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
 <a href="https://www.youtube.com/watch?v=FqqhaOlefwY"><img src="https://github.com/AssataW/AssataW/assets/130590714/e9ab0a36-97a7-4205-8926-5179c52975a9" alt="Google employee deploying Google External HTTP(S) Load Balancer with Terraform"></a> 
@@ -87,7 +87,9 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=c1GdbWG_fXo"><img src="https://github.com/AssataW/AssataW/assets/130590714/e9c5efd2-6d43-4cfc-9d20-fb5898116abf" alt="Youtube creator Cloud Girl explaining the Open System Interconnection framework"></a>
 
 
+
 <a href="https://www.youtube.com/watch?v=ORxMMo7it_Y"><img src="" alt="Youtube creator Cloud Girl explaining relational and non-relational databases"></a>
+
 <!-- END YOUTUBE-LINKS -->
 
 
