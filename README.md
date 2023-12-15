@@ -86,6 +86,8 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=qJhzrdazCZU&t=12s"><img src="https://github.com/AssataW/AssataW/assets/130590714/c7035b06-02ae-42ce-a95b-f2099e341f18" alt="Youtube content creator explaining Linux command lines"></a>
 <a href="https://www.youtube.com/watch?v=c1GdbWG_fXo"><img src="https://github.com/AssataW/AssataW/assets/130590714/e9c5efd2-6d43-4cfc-9d20-fb5898116abf" alt="Youtube creator Cloud Girl explaining the Open System Interconnection framework"></a>
 
+
+<a href="https://www.youtube.com/watch?v=ORxMMo7it_Y"><img src="" alt="Youtube creator Cloud Girl explaining relational and non-relational databases"></a>
 <!-- END YOUTUBE-LINKS -->
 
 
