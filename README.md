@@ -94,7 +94,11 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=ygwPOBVHoi0"><img src="https://github.com/AssataW/AssataW/assets/130590714/9e36da14-5ca3-4021-af2a-8e3d623f30b8" alt="Youtube creator Tech with Soleyman explaining key skills for cloud engineering"></a>
 
 
+<a href="https://www.youtube.com/watch?v=hP5rhIcx9Ck"><img src="" alt="Google employee explaining FinOps"></a>
 
+
+
+https://www.youtube.com/watch?v=hP5rhIcx9Ck
 <!-- END YOUTUBE-LINKS -->
 
 
