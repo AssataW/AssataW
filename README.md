@@ -75,7 +75,7 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=i3epeCk8ldc"><img src="https://github.com/AssataW/AssataW/assets/130590714/3b86c768-defa-4bdd-b553-e0e8bf9f51bb" alt="Google employees discussing serverless cicd"></a>
 <a href="https://www.youtube.com/watch?v=hVTnW-rH5Vc"><img src="https://github.com/AssataW/AssataW/assets/130590714/e07cb7f6-a71e-40fe-b687-9c45f264a117" alt="Google employee discussing secure development environments with Google Cloud"></a> 
 <a href="https://www.youtube.com/watch?v=qJhzrdazCZU&t"><img src="https://github.com/AssataW/AssataW/assets/130590714/8cf200cd-6e06-43e6-951e-e64cc88057c2" alt="Youtube content creator explaining Linux command lines"></a>
-
+<a href="https://www.youtube.com/watch?v=c1GdbWG_fXo"><img src="https://github.com/AssataW/AssataW/assets/130590714/6798a794-b4f8-4eb3-8480-8976a0546626" alt="Youtube creator Cloud Girl explaining the Open System Interconnection framework"></a>
 
 
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
@@ -85,8 +85,6 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=hVTnW-rH5Vc"><img src="https://github.com/AssataW/AssataW/assets/130590714/87aa559a-aabe-4f25-9537-e89327a58b98" alt="Google employee discussing secure development environments with Google Cloud"></a>
 <a href="https://www.youtube.com/watch?v=qJhzrdazCZU&t=12s"><img src="https://github.com/AssataW/AssataW/assets/130590714/c7035b06-02ae-42ce-a95b-f2099e341f18" alt="Youtube content creator explaining Linux command lines"></a>
 
-
-<a href=""><img src="" alt=""></a>
 
 <!-- END YOUTUBE-LINKS -->
 
