@@ -92,7 +92,7 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=psJVKazKU8Y"><img src="https://github.com/AssataW/AssataW/assets/130590714/d29a2ceb-70d7-49b0-a9b6-154e3fd6e0fa" alt="Youtube creator Rishab in Cloud discussing VSCode extensions for DevOps Engineers"></a>
 
 
-<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0"><img src="" alt="">Youtube creator Tech with Soleyman explaining key skills for cloud engineering</a>
+<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0"><img src="" alt="">Youtube creator Tech with Soleyman explaining key skills for cloud engineering></a>
 
 <!-- END YOUTUBE-LINKS -->
 
