@@ -79,7 +79,7 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=ORxMMo7it_Y"><img src="https://github.com/AssataW/AssataW/assets/130590714/9ec45758-8c38-482b-ae94-1a124f551b9e" alt="Youtube creator Cloud Girl explaining relational and non-relational databases"></a>
 <a href="https://www.youtube.com/watch?v=QjqUEcKhTM8"><img src="https://github.com/AssataW/AssataW/assets/130590714/6d83612b-b5d0-4aab-97ac-b2a7b35cc08b" alt="Youtube creator Cloud Girl explaining TCP and IP protocols"></a>
 <a href="https://www.youtube.com/watch?v=psJVKazKU8Y"><img src="https://github.com/AssataW/AssataW/assets/130590714/dd862131-8ea3-4d82-8a6d-7608110f7996" alt="Youtube creator Rishab in Cloud discussing VSCode extensions for DevOps Engineers"></a>
-
+<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0"><img src="https://github.com/AssataW/AssataW/assets/130590714/f2712be8-c310-4892-b13e-25ed08d9a662" alt="Youtube creator Tech with Soleyman explaining key skills for cloud engineering"></a>
 
 <a href="https://www.youtube.com/watch?v=etAaLNrjh20"><img src="https://github.com/AssataW/AssataW/assets/130590714/1b1fb84d-7859-4b84-8130-79ca5edb0ce0" alt="https://github.com/AssataW/Python-Projects/assets/130590714/3cf38679-2045-4833-a6fc-8c2c1ac98399"></a> 
 <a href="https://www.youtube.com/watch?v=FqqhaOlefwY"><img src="https://github.com/AssataW/AssataW/assets/130590714/e9ab0a36-97a7-4205-8926-5179c52975a9" alt="Google employee deploying Google External HTTP(S) Load Balancer with Terraform"></a> 
@@ -93,7 +93,7 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=psJVKazKU8Y"><img src="https://github.com/AssataW/AssataW/assets/130590714/d29a2ceb-70d7-49b0-a9b6-154e3fd6e0fa" alt="Youtube creator Rishab in Cloud discussing VSCode extensions for DevOps Engineers"></a>
 <a href="https://www.youtube.com/watch?v=ygwPOBVHoi0"><img src="https://github.com/AssataW/AssataW/assets/130590714/9e36da14-5ca3-4021-af2a-8e3d623f30b8" alt="Youtube creator Tech with Soleyman explaining key skills for cloud engineering"></a>
 
-<a href="https://www.youtube.com/watch?v=ygwPOBVHoi0"><img src="" alt="Youtube creator Tech with Soleyman explaining key skills for cloud engineering"></a>
+
 
 <!-- END YOUTUBE-LINKS -->
 
