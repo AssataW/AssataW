@@ -90,7 +90,7 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=QjqUEcKhTM8"><img src="https://github.com/AssataW/AssataW/assets/130590714/95c30120-edc0-4a7c-aeb1-35fb36544ee4" alt="Youtube creator Cloud Girl explaining TCP and IP protocols"></a>
 
 
-<a href=""><img src="" alt=""></a>
+<a href="https://www.youtube.com/watch?v=psJVKazKU8Y"><img src="" alt="Youtube creator Rishab in Cloud discussing VSCode extensions for DevOps Engineers"></a>
 
 <!-- END YOUTUBE-LINKS -->
 
