@@ -88,6 +88,8 @@ Shout out to the content creators that aided me on my cloud computing journey. I
 <a href="https://www.youtube.com/watch?v=ORxMMo7it_Y"><img src="https://github.com/AssataW/AssataW/assets/130590714/96fab0e4-053c-44c8-887e-ceb02b12ef22" alt="Youtube creator Cloud Girl explaining relational and non-relational databases"></a>
 
 
+<a href="https://www.youtube.com/watch?v=QjqUEcKhTM8"><img src="" alt="Youtube creator Cloud Girl explaining TCP AND IP protocols"></a>
+
 
 <!-- END YOUTUBE-LINKS -->
 
