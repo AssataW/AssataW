@@ -1,6 +1,6 @@
 ![Assatawgithubheader png (2)](https://github.com/AssataW/Python-Projects/assets/130590714/b944ce1f-0dae-437c-87e9-ab3006535674)
 
-👩🏽‍💻 **`Lady in the cloud `** I'm Assata👋🏽, a Junior DevOps Engineer sculpting the digital frontier with a mission to automate, optimize, and fortify cloud infrastructures. Currently enrolled on a GCP program with Google, I've acquired skills in cloud platforms, containerization, and programming. Think of me as your problem-solving superwoman, working on crafting CI/CD pipelines so smooth they put butter to shame😄
+👩🏽‍💻 **`Lady in the cloud `** I'm Assata👋🏽, a Junior DevOps Engineer sculpting the digital frontier with a mission to automate, optimize, and fortify cloud infrastructures. Currently enrolled on a GCP program with Google, my skills range from cloud platforms, containerization, and programming. Think of me as your problem-solving superwoman, working on crafting CI/CD pipelines so smooth they put butter to shame😄
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :hammer_and_wrench: Languages and Tools
