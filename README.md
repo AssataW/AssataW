@@ -3,6 +3,8 @@
 
 👩🏽‍💻 **`Lady in the cloud `** I'm Assata👋🏽, a Junior DevOps Engineer with experience in cloud platforms, containerization, and programming. My mission? To automate, optimize, and safeguard cloud infrastructures while keeping an eye out for those pesky bugs trying to sneak in. Think of me as the problem-solving superwoman, crafting CI/CD pipelines so smooth they put butter to shame😄
 
+Currently enrolled on a GCP program in partnership with Google, I've acquired experience in cloud platforms, containerization, and programming. My mission? To automate, optimize, and safeguard cloud infrastructures while keeping an eye out for those pesky bugs trying to sneak in. Think of me as the problem-solving superwoman, working on crafting CI/CD pipelines so smooth they put butter to shame😄
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :hammer_and_wrench: Languages and Tools
 
