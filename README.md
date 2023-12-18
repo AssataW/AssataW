@@ -57,11 +57,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,replit,figma,ps,&theme=dark)](https://skillicons.dev) 
 
-###
-
 #
 ### :cloud: My Cloud journey
-I'm excited about making my mark in the tech world, especially as a woman of colour. I aim to inspire, mentor and support other women from diverse backgrounds who aspire to follow a similar path. My journey is not just about personal growth but about breaking barriers and challenging stereotypes along the way. 
+My journey from Technical recruitment to Cloud Engineering is a tale of unexpected connections and a passion for technology that took me by surprise. As a Technical Recruiter, my world revolved around connecting with Software Engineers professionally. Little did I know that these interactions would spark a profound transformation. The Software Engineers I engaged with weren't just candidates or colleagues; they were mentors who generously shared their wisdom and experiences. Through these conversations, the curtain was lifted on the pivotal role of cloud computing in shaping the tech landscape. The more I delved into this dynamic and ever-evolving field, the more I became drawn to it. The realisation hit me: I wanted to be a part of the innovation happening in cloud technology. And so, armed with newfound inspiration, I embarked on a journey. However, this journey didn't come without its challenges. There were steep learning curves and moments that tested my discipline. Yet, with determination and a naturally curious mindset, I embraced these obstacles as opportunities for growth. Now, I stand at the threshold of making my mark in the tech world, particularly as a woman of colour.
 #
 
 ### :computer: Recommended resources
