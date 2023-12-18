@@ -65,7 +65,8 @@ I'm excited about making my mark in the tech world, especially as a woman of col
 #
 
 ### :computer: Recommended resources
-Shout out to the content creators that aided me on my cloud computing journey. I'd recommend subscribing to these YouTube channels and checking out their content (content not my own).
+
+Check out the YouTube playlist featuring recommended videos that played a pivotal role in guiding me through my cloud-computing journey. Subscribe to these creators for additional insights and tips in the Cloud (content not my own).
 
 <!-- YOUTUBE-LINKS -->
 
