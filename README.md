@@ -93,7 +93,6 @@ Check out the YouTube playlist featuring recommended videos that played a pivota
 - 💞️ I’m looking to collaborate on projects that would increase my knowledge of cloud computing 
 - 🤔 I’m looking for help with more coding
 - 👀 I’m interested in tech, fashion, music and film
-- 😁 My guilty pleasure...reality TV
 - 📫 To reach me, send an email or DM via my socials
 
 <h3 align="left">Connect with me:</h3>
