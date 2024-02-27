@@ -1,5 +1,7 @@
 ![Assatawgithubheader png (2)](https://github.com/AssataW/Python-Projects/assets/130590714/b944ce1f-0dae-437c-87e9-ab3006535674)
 
+![Assatawgithubheader png (2)](https://github.com/AssataW/AssataW/blob/main/assets/images/Assatawgithubheader%20png%20(2).gif?raw=true)
+
 👩🏽‍💻 I'm Assata👋🏽, a Junior Cloud Engineer on a mission to automate, optimize, and fortify cloud infrastructures. Currently enrolled on a Google Cloud Platform program, my skills range from cloud platforms to containerization and programming. Think of me as your problem-solving superwoman, working on crafting CI/CD pipelines so smooth they put butter to shame😄
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
