@@ -1,6 +1,6 @@
 ![Assatawgithubheader png (2)](https://github.com/AssataW/Python-Projects/assets/130590714/b944ce1f-0dae-437c-87e9-ab3006535674)
 
-👩🏽‍💻 I'm Assata👋🏽, a Junior Cloud Engineer sculpting the digital frontier with a mission to automate, optimize, and fortify cloud infrastructures. Currently enrolled on a GCP program with Google, my skills range from cloud platforms, containerization, and programming. Think of me as your problem-solving superwoman, working on crafting CI/CD pipelines so smooth they put butter to shame😄
+👩🏽‍💻 I'm Assata👋🏽, a Junior Cloud Engineer on a mission to automate, optimize, and fortify cloud infrastructures. Currently enrolled on a Google Cloud Platform program, my skills range from cloud platforms to containerization and programming. Think of me as your problem-solving superwoman, working on crafting CI/CD pipelines so smooth they put butter to shame😄
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### :hammer_and_wrench: Languages and Tools
@@ -84,7 +84,7 @@ Check out the YouTube playlist featuring recommended videos that played a pivota
 
 #
 ### :round_pushpin: More about me
-- :cloud:Google Cloud Platform 
+- :cloud: Google Cloud Platform 
 - ⌨ Linux, Python, Networking and Security
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Master Terraform, Kubernetes and Docker 
@@ -105,8 +105,6 @@ Check out the YouTube playlist featuring recommended videos that played a pivota
 
 
 ### 📊 My Github Stats (I'm working on it :smirk:)
-
-<a href="http://www.github.com/AssataW"><img src="https://github-readme-stats.vercel.app/api?username=AssataW&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="AssataW's GitHub stats" /></a>
 
 <a href="http://www.github.com/AssataW"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AssataW&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
