@@ -85,7 +85,7 @@ Check out the YouTube playlist featuring recommended videos that played a pivota
 
 #
 ### :round_pushpin: More about me
-- :cloud: Google Cloud Platform 
+- :cloud: Google Cloud Platform & AWS
 - ⌨ Linux, Python, Networking and Security
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2024 Goals: Master Terraform, Kubernetes and Docker 
